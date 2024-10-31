@@ -1,0 +1,36 @@
+.row {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.col {
+    float: left;
+    width: 50%;
+    margin: 5px;
+}
+
+img {
+    float: left;
+}
+
+.product-info {
+    float: left;
+    font-size: 16px;
+    margin-top: 35px;
+}
+
+.star {
+    color: orange;
+}
+
+.product-name {
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+.product-price {
+    font-weight: bolder;
+    margin-top: 15px;
+    font-size: 22px;
+}
